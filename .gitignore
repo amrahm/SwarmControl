@@ -1,3 +1,6 @@
+#merge backup files
+*.orig*
+
 Game Bild
 [Ll]ibrary/
 [Tt]emp/
